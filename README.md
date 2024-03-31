@@ -2,10 +2,7 @@
 
 - 🔭 I’m learning C++
 - 😄 I like making fun software
-- ⚡ my project
-  netdust
-  izmiware
-  unitscraper
+- ⚡ netdust <3
 <!--
 **newtem/newtem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
