@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53C8F7&random=false&width=435&lines=Hello+World+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B991F7&random=false&width=435&lines=I'm+newtem+%3C3)](https://git.io/typing-svg)
 
 - 🔭 I’m learning C++
 - 😄 I like making fun software
